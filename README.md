@@ -1,0 +1,2 @@
+# nextJsSetUp
+starting next js
